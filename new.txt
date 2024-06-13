@@ -1,0 +1,2 @@
+scenario 1 : book a flight
+scenario 2 : book a hotel
